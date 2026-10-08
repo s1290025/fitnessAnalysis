@@ -1,0 +1,7 @@
+tensorflow>=2.16,<2.22
+mediapipe>=0.10.14,<0.11
+opencv-python>=4.9,<5
+numpy>=1.26,<3
+joblib>=1.3,<2
+scikit-learn>=1.6.1,<1.7
+pytest>=8,<10
